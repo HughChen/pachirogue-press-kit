@@ -414,6 +414,28 @@ main h3 {
   border: 0;
 }
 
+.gif-embed {
+  margin: 0;
+  border: 2px solid var(--cardboard);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 3px 3px 0 var(--shadow);
+  background: #1a1510;
+}
+
+.gif-embed img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.gif-embed figcaption {
+  margin: 0;
+  padding: 0.45rem 0.65rem;
+  background: var(--paper-bright);
+  border-top: 1px solid rgba(166, 124, 82, 0.35);
+}
+
 .download-box {
   display: flex;
   flex-wrap: wrap;

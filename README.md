@@ -21,10 +21,11 @@ PressKit_PachiRogue/
 ├── 01_Logos_and_Icons/
 ├── 02_Screenshots/
 ├── 03_Key_Art_and_Banners/
+├── 04_GIFs_and_Short_Clips/
 └── Factsheet.txt
 ```
 
-Trailer is embedded from YouTube on the page (no GIF pack).
+Trailer is embedded from YouTube; a short gameplay GIF is also on the page and in the pack.
 
 ## Fill in before sharing widely
 
