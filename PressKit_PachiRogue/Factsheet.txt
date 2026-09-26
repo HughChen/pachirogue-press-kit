@@ -1,11 +1,11 @@
-PachiRogue — Press Factsheet
-============================
+PachiRogue Press Factsheet
+==========================
 
 Game title:     PachiRogue
 Developer:      Hugh Chen (solo)
 Location:       TBD
 Release date:   Demo available now · Full release TBA
-Platforms:      PC (Steam, itch.io) · Steam Deck verified target
+Platforms:      PC (Steam, itch.io)
 Website:        https://hughchen.github.io/pachirogue-press-kit/
 Steam:          https://store.steampowered.com/app/4658910/PachiRogue/
 Steam demo:     https://store.steampowered.com/app/5057460/PachiRogue_Demo/
@@ -16,21 +16,21 @@ Socials:        TBD
 
 One-sentence hook
 -----------------
-A papercraft pachinko roguelite where you aim physics shots into a climbing horde — Vampire Survivors pressure, Peggle-style cascades, cardboard toy-box charm.
+It’s like Peggle got invaded by a horde. You aim balls down a cardboard board while enemies climb toward you, one careful shot at a time.
 
 Short description
 -----------------
-PachiRogue is a physics-based horde-survival roguelite played on a handmade toy-box board. You don't move a character — you load balls from your hopper, aim, and fire while themed armies climb the playfield in turns. When your throws are spent, the horde steps up. Land cascading hits, draft relics, and survive the path to the boss.
+PachiRogue is a pachinko-style roguelite set in a little cardboard toy box. There’s no character to walk around. You pick a ball from your hopper, line up the shot, and let physics do the rest while the enemy army waits. Use up your throws and the horde steps closer. Clear the board, grab upgrades, and try to make it to the boss.
 
-Assets are crafted from real cardboard, construction paper, and felt — photographed and processed into a tangible tabletop look.
+A lot of the art is real craft supplies: cardboard, construction paper, felt, photographed and dropped into the game. It plays slow and deliberate. You’re aiming for those messy chain reactions, not mashing buttons.
 
 Key features
 ------------
-- Deliberate turn-based action economy: limited throws per turn, load the right ball for the wave
-- Physics cascades that reward aim and read over reflex spam
-- Hopper loadouts — distinct ball types as physics tools (mass, bounce, damage, size)
-- Papercraft aesthetic: cardboard boards, felt enemies, mason-jar gold bank
-- Replayable authored levels with themed armies and boss finales
+- Limited throws. Each turn you only get so many shots, so the next ball actually matters
+- Physics payoffs. A good bounce can wipe a whole cluster; a bad one wastes the turn
+- Ball hopper. Carry different balls and load the one that fits the wave
+- Handmade look. Cardboard boards, felt enemies, gold coins in a mason jar
+- Multiple stages. Different boards and enemy themes, each with its own boss
 
 Trailer
 -------
