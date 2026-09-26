@@ -29,7 +29,7 @@ PressKit_PachiRogue/
 
 Edit `index.html`, `Factsheet.txt`, and `PressKit_PachiRogue/Factsheet.txt`:
 
-- [ ] Press email / contact
+- [x] Press email / contact (pachirogue@gmail.com)
 - [ ] Location
 - [ ] Price (or confirm TBD)
 - [ ] Social links

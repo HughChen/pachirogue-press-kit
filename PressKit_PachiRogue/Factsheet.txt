@@ -11,7 +11,7 @@ Steam:          https://store.steampowered.com/app/4658910/PachiRogue/
 Steam demo:     https://store.steampowered.com/app/5057460/PachiRogue_Demo/
 itch.io:        https://hughchen.itch.io/pachirogue
 Price:          TBD
-Press contact:  TBD (replace with your press email)
+Press contact:  pachirogue@gmail.com
 Socials:        TBD
 
 One-sentence hook
