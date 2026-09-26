@@ -99,7 +99,8 @@ a:hover {
 
 .hero__logo {
   width: min(420px, 85%);
-  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.45));
+  /* library_logo.png is on black — screen knocks out the plate over the hero */
+  mix-blend-mode: screen;
   margin-bottom: 0.75rem;
 }
 

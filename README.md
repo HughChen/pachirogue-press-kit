@@ -33,9 +33,10 @@ Edit `index.html`, `Factsheet.txt`, and `PressKit_PachiRogue/Factsheet.txt`:
 - [ ] Location
 - [ ] Price (or confirm TBD)
 - [ ] Social links
-- [ ] YouTube trailer embed + download link
+- [x] YouTube trailer embed
 - [ ] Gameplay screenshots (`02_Screenshots/`)
 - [ ] Core-loop GIF (`04_GIFs_and_Short_Clips/`)
+- [ ] Optional: trailer direct-download link
 - [ ] Optional: Google Drive mirror URL for the zip
 
 After adding assets, regenerate the zip:
