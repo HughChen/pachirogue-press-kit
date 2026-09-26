@@ -1,0 +1,42 @@
+PachiRogue — Press Factsheet
+============================
+
+Game title:     PachiRogue
+Developer:      Hugh Chen (solo)
+Location:       TBD
+Release date:   Demo available now · Full release TBA
+Platforms:      PC (Steam, itch.io) · Steam Deck verified target
+Website:        https://hughchen.github.io/pachirogue-press-kit/
+Steam:          https://store.steampowered.com/app/4658910/PachiRogue/
+Steam demo:     https://store.steampowered.com/app/5057460/PachiRogue_Demo/
+itch.io:        https://hughchen.itch.io/pachirogue
+Price:          TBD
+Press contact:  TBD (replace with your press email)
+Socials:        TBD
+
+One-sentence hook
+-----------------
+A papercraft pachinko roguelite where you aim physics shots into a climbing horde — Vampire Survivors pressure, Peggle-style cascades, cardboard toy-box charm.
+
+Short description
+-----------------
+PachiRogue is a physics-based horde-survival roguelite played on a handmade toy-box board. You don't move a character — you load balls from your hopper, aim, and fire while themed armies climb the playfield in turns. When your throws are spent, the horde steps up. Land cascading hits, draft relics, and survive the path to the boss.
+
+Assets are crafted from real cardboard, construction paper, and felt — photographed and processed into a tangible tabletop look.
+
+Key features
+------------
+- Deliberate turn-based action economy: limited throws per turn, load the right ball for the wave
+- Physics cascades that reward aim and read over reflex spam
+- Hopper loadouts — distinct ball types as physics tools (mass, bounce, damage, size)
+- Papercraft aesthetic: cardboard boards, felt enemies, mason-jar gold bank
+- Replayable authored levels with themed armies and boss finales
+
+Trailer
+-------
+YouTube: TBD
+Direct download: TBD
+
+Press assets
+------------
+Download the full organized pack from the press kit page, or browse PressKit_PachiRogue/ in this repository.
