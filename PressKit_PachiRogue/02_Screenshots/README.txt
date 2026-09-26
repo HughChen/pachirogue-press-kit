@@ -1,11 +1,7 @@
-Drop clean gameplay screenshots here (1080p or 4K preferred).
+Gameplay screenshots (1080p+).
 
-Suggested naming:
-  Clean_Gameplay_01.png
-  Clean_Gameplay_02.png
-  Action_Shot_03.png
-
-Guidelines:
-- Prefer polished UI or intentional clean/no-UI shots
-- Avoid debug overlays, watermark clutter, or unfinished panels
-- Landscape 16:9 works best for press embeds
+  Clean_Gameplay_01.png  — Aim / board / hopper
+  Action_Shot_02.png     — Multiball cascade combat
+  Level_Up_03.png        — Stat draft on level-up
+  Shop_04.png            — In-run ball shop
+  Aquarium_05.png        — Meta aquarium / tank passives

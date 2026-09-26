@@ -12,18 +12,19 @@ Public press kit for **PachiRogue**, hosted on GitHub Pages.
 | `Factsheet.txt` | Plain-text factsheet |
 | `PressKit_PachiRogue/` | Downloadable asset pack (organized folders) |
 | `PressKit_PachiRogue.zip` | Same pack, one-click download from the page |
-| `assets/images/` | Lightweight copies used by the webpage |
+| `assets/images/` | Copies used by the webpage |
 
 ### Asset pack layout
 
 ```
 PressKit_PachiRogue/
 ├── 01_Logos_and_Icons/
-├── 02_Screenshots/          ← add gameplay shots here
+├── 02_Screenshots/
 ├── 03_Key_Art_and_Banners/
-├── 04_GIFs_and_Short_Clips/ ← add GIFs / short clips here
 └── Factsheet.txt
 ```
+
+Trailer is embedded from YouTube on the page (no GIF pack).
 
 ## Fill in before sharing widely
 
@@ -34,8 +35,7 @@ Edit `index.html`, `Factsheet.txt`, and `PressKit_PachiRogue/Factsheet.txt`:
 - [ ] Price (or confirm TBD)
 - [ ] Social links
 - [x] YouTube trailer embed
-- [ ] Gameplay screenshots (`02_Screenshots/`)
-- [ ] Core-loop GIF (`04_GIFs_and_Short_Clips/`)
+- [x] Gameplay screenshots (`02_Screenshots/`)
 - [ ] Optional: trailer direct-download link
 - [ ] Optional: Google Drive mirror URL for the zip
 
