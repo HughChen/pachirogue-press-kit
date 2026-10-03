@@ -414,6 +414,18 @@ main h3 {
   border: 0;
 }
 
+.gif-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+
+@media (min-width: 720px) {
+  .gif-grid {
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
+  }
+}
+
 .gif-embed {
   margin: 0;
   border: 2px solid var(--cardboard);
