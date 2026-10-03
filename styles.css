@@ -428,11 +428,7 @@ main h3 {
 
 .gif-embed {
   margin: 0;
-  border: 2px solid var(--cardboard);
-  border-radius: var(--radius);
-  overflow: hidden;
-  box-shadow: 3px 3px 0 var(--shadow);
-  background: #1a1510;
+  background: transparent;
 }
 
 .gif-embed img {
@@ -442,10 +438,8 @@ main h3 {
 }
 
 .gif-embed figcaption {
-  margin: 0;
-  padding: 0.45rem 0.65rem;
-  background: var(--paper-bright);
-  border-top: 1px solid rgba(166, 124, 82, 0.35);
+  margin: 0.55rem 0 0;
+  padding: 0;
 }
 
 .download-box {
