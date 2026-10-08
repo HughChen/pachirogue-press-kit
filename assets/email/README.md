@@ -6,7 +6,7 @@ nothing on the site links here, so these can be re-encoded freely.
 
 | File | Source | Notes |
 |---|---|---|
-| `polaroid.gif` | `assets/images/outreach_polaroid.gif` | 680px wide, 10 fps (40 of 60 frames), ~1 MB |
+| `polaroid.gif` | `assets/images/outreach_polaroid.gif` | 680px wide, all 60 frames (~15 fps, same as the original), ~1.4 MB |
 | `cardboard_board.jpg` | photo of the physical cardboard board | 960px wide (shown at 480px), ~215 KB |
 
 **Don't delete or rename these (or `assets/images/outreach_polaroid.gif`).** Sent emails don't carry
